@@ -131,6 +131,19 @@ def weighted_chances_heuristic(game, player):
     return my_moves*my_moves - 1.5*opponent_moves*opponent_moves
 
 
+def weighted_chances_heuristic_2(game, player):
+    if game.is_loser(player):
+        return float("-inf")
+
+    if game.is_winner(player):
+        return float("inf")
+
+    my_moves = len(game.get_legal_moves(player))
+    opponent_moves = len(game.get_legal_moves(game.get_opponent(player)))
+
+    return 1.5*my_moves*my_moves - opponent_moves*opponent_moves
+
+
 class CustomPlayer:
     """Game-playing agent that chooses a move using your evaluation function
     and a depth-limited minimax algorithm with alpha-beta pruning. You must

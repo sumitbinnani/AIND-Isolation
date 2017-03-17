@@ -129,15 +129,34 @@ Student5            64.48%
 
 Playing Matches:
 ----------
-  Match 1:  Student6   vs   Random    	Result: 1757 to 243
-  Match 2:  Student6   vs   MM_Null   	Result: 1474 to 526
-  Match 3:  Student6   vs   MM_Open   	Result: 1118 to 882
-  Match 4:  Student6   vs MM_Improved 	Result: 1033 to 967
-  Match 5:  Student6   vs   AB_Null   	Result: 1440 to 560
-  Match 6:  Student6   vs   AB_Open   	Result: 1237 to 763
-  Match 7:  Student6   vs AB_Improved 	Result: 1202 to 798
+  Match 1:  Student6   vs   Random    	Result: 1741 to 259
+  Match 2:  Student6   vs   MM_Null   	Result: 1520 to 480
+  Match 3:  Student6   vs   MM_Open   	Result: 1112 to 888
+  Match 4:  Student6   vs MM_Improved 	Result: 1059 to 941
+  Match 5:  Student6   vs   AB_Null   	Result: 1418 to 582
+  Match 6:  Student6   vs   AB_Open   	Result: 1245 to 755
+  Match 7:  Student6   vs AB_Improved 	Result: 1209 to 791
 
 
 Results:
 ----------
-Student6            66.15%
+Student6            66.46%
+
+*************************
+  Evaluating: Student7   
+*************************
+
+Playing Matches:
+----------
+  Match 1:  Student7   vs   Random    	Result: 1714 to 286
+  Match 2:  Student7   vs   MM_Null   	Result: 1435 to 565
+  Match 3:  Student7   vs   MM_Open   	Result: 1138 to 862
+  Match 4:  Student7   vs MM_Improved 	Result: 1084 to 916
+  Match 5:  Student7   vs   AB_Null   	Result: 1369 to 631
+  Match 6:  Student7   vs   AB_Open   	Result: 1199 to 801
+  Match 7:  Student7   vs AB_Improved 	Result: 1224 to 776
+
+
+Results:
+----------
+Student7            65.45%
