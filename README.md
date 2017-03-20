@@ -1,6 +1,8 @@
 
 # Build a Game-playing Agent
 
+# [Heuristic Analysis Report can be found here](./heuristic_analysis.pdf).
+
 ## Synopsis
 
 In this project, students will develop an adversarial search agent to play the game "Isolation".  Students only need to modify code in the `game_agent.py`, however, code is included for example player and evaluation functions for you to review and test against in the other files.
